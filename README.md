@@ -1,4 +1,4 @@
-<img src="https://github.com/ConradCsky/Tic-Tac-Toe/blob/main/Tic%20Tac%20Toe.jpg" height="150" img>
+<img src="https://github.com/ConradCsky/Tic-Tac-Toe/blob/main/Tic%20Tac%20Toe.jpg" height="150" img><br>
 # Tic Tac Toe
 This is a simple implementation of the popular Tic Tac Toe game in C++. The game allows two players, using 'X' and 'O' symbols, to take turns placing their symbols on a 3x3 grid. The goal of the game is for a player to form a horizontal, vertical, or diagonal line of three of their symbols. The game ends when one of the players wins or the grid is full, resulting in a draw.
 
